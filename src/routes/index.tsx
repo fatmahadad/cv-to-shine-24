@@ -4,7 +4,7 @@ import {
   Download,
   Mail,
   Phone,
-  Linkedin,
+  Link2 as Linkedin,
   MapPin,
   Calendar,
   GraduationCap,
